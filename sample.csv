@@ -1,0 +1,3 @@
+name,quantity,price,symbol,last_updated
+Csv4,100,10.5,XYZ,2024-01-01
+Csv3,50,5.0,ABC,2024-01-02
